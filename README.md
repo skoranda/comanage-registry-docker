@@ -19,7 +19,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
-# COmanage Registry Docker
+# COmanage Registry Docker FOO
 
 This repository contains Dockerfiles, documenation, and other files necessary to
 build and deploy a Dockerized version of
